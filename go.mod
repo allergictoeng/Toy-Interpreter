@@ -1,3 +1,3 @@
-module github.com/allergictoeng/Toy-Interpreter/src
+module github.com/allergictoeng/Toy-Interpreter
 
 go 1.17
